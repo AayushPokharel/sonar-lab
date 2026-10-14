@@ -1,0 +1,12 @@
+{
+  "name": "sonar-quality-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Training project for SonarQube analysis",
+  "scripts": {
+    "test": "jest --coverage --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
